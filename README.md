@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths and physics, and building fun apps related to these (Fractal Generator coming soon!)
 - 🌱 I’m currently learning Python, and looking into GPU acceleration for JavaScript calculations (Mandelbrot :))
 - 💞️ I’m looking to collaborate on any small fun projects, or open source projects.
-- 📫 How to reach me: https://www.linkedin.com/in/freddie-schultz-3276b82bb/
+- 📫 How to reach me: https://www.linkedin.com/in/freddie-schultz-3276b82bb/ or check out my CV here: https://drive.google.com/file/d/1K2PdPzfXovfEKDST9_t6QJex1jyjyP5U/view
 - ⚡ Fun fact: I love reviewing code and documentation! Send me something and I'll let you know what I think!
 
 <!---
