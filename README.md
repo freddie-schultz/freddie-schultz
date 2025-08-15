@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths and physics, and building fun apps related to these (Fractal Generator in the works!)
 - 🌱 Currently practising my React.js skills and using Co-pilot.
 - 💞️ I’m looking to collaborate on any small fun projects, or open source projects.
-- 📫 How to reach me: https://www.linkedin.com/in/freddie-schultz-3276b82bb/ or check out my CV here: https://drive.google.com/file/d/1K2PdPzfXovfEKDST9_t6QJex1jyjyP5U/view
+- 📫 How to reach me: https://www.linkedin.com/in/freddie-schultz-3276b82bb/ or check out my CV here: [https://drive.google.com/file/d/1K2PdPzfXovfEKDST9_t6QJex1jyjyP5U/view](https://drive.google.com/file/d/1Ny-wjQH8s1vVNHyrV700Z2QoynPO4Vc2/view)
 - ⚡ Fun fact: I love reviewing code and documentation! Send me something and I'll let you know what I think!
 
 <!---
